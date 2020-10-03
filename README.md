@@ -11,7 +11,7 @@
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/zttthdQrn4.gif" width=250><br>
+<img src="http://g.recordit.co/4bjato6WNd.gif" width=250><br>
 
 ### Notes
 It was challenging to get the right sizing of the items in the collection view.
